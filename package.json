@@ -1,6 +1,6 @@
 {
   "name": "@mathewparet/vue-common-filters",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Vue.js set of common filters",
   "main": "src/filters.js",
   "scripts": {

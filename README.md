@@ -29,8 +29,8 @@ Vue.use(filters);
 
 | Parameter | Description | Requred? | Default |
 | --- | --- | --- | --- |
-max_length | Maximum length after which text should be trimmed | No | 10
-lead | The indicator text that shows text was trimmed | No | ...
+max_length | Maximum length after which text should be trimmed | No | 10 |
+lead | The indicator text that shows text was trimmed | No | ... |
 
 ### ```dateFormat()```
 
