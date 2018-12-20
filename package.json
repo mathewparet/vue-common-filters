@@ -1,0 +1,23 @@
+{
+  "name": "@mathewparet/vue-common-filters",
+  "version": "1.0.1",
+  "description": "A Vue.js set of common filters",
+  "main": "src/filters.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathewparet/vue-common-filters.git"
+  },
+  "author": "Mathew Paret <mathewparet@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mathewparet/vue-common-filters/issues"
+  },
+  "homepage": "https://github.com/mathewparet/vue-common-filters#readme",
+  "dependencies": {
+    "moment": "^2.22.2",
+    "vue": "^2.5.11"
+  }
+}
