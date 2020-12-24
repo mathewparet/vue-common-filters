@@ -6,7 +6,7 @@ export default {
         Vue.filter('dateFormat',this.dateFormat);
     },
 
-    trim(value, max_length = 10, lead = '...') {
+    trim(value, max_length = 15, lead = '...') {
         if(!value)
             return;
         
