@@ -16,7 +16,7 @@ export default {
         return value.substring(0, max_length-lead.length)+lead;
     },
     
-    dateFormat(value, format='lll', current_format = 'YYYY-MM-DD') {
+    dateFormat(value, format='lll', current_format = 'YYYY-MM-DDTHH:mm:ssZ') {
         if(!value)
             return;
         
