@@ -29,13 +29,13 @@ Vue.use(filters);
 
 | Parameter | Description | Requred? | Default |
 | --- | --- | --- | --- |
-max_length | Maximum length after which text should be trimmed | No | 10 |
+max_length | Maximum length after which text should be trimmed | No | 15 |
 lead | The indicator text that shows text was trimmed | No | ... |
 
 ### ```dateFormat()```
 
 | Parameter | Description | Required? | Default |
 | --- | --- | --- | --- |
-| format | The date format to be converted to. More formats can be found in moment's API. (https://momentjs.com/docs/#/parsing/string-format) | No | lll |
-| current_format | The format in which the current date is fed in | No | YYYY-MM-DD
+| format | The date format to be converted to. More formats can be found in moment's API. (https://momentjs.com/docs/#/parsing/string-format) | No | llll |
+| current_format | The format in which the current date is fed in | No | YYYY-MM-DDTHH:mm:ssZ
 
